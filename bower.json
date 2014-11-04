@@ -1,0 +1,15 @@
+{
+"name": "WSo2 Admin Template",
+"version": "0.0.1",
+"authors": [
+"username <joseph@wso2.com>"
+],
+"description": "An awesome web application",
+"license": "Apache License, Version 2.0",
+"ignore": [
+ ],
+ "dependencies": {
+  "bootstrap":"latest",
+  "font-awesome":"latest"
+  }
+}    
